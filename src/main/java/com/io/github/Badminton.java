@@ -6,5 +6,9 @@
 
 package com.io.github;
 
-public class Badminton {
+public class Badminton implements GameConsole {
+    @Override
+    public void computeScore() {
+
+    }
 }

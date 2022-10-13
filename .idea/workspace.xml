@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c2df2c2e-2fa6-4736-9d5c-1aa495350758" name="Changes" comment="created an abstract method computeScore() in the Interface GameConsole.java">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/io/github/Chess.java" afterDir="false" />
+    <list default="true" id="c2df2c2e-2fa6-4736-9d5c-1aa495350758" name="Changes" comment="created the Badminton class">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/io/github/Badminton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/io/github/Badminton.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +86,28 @@
       <option name="project" value="LOCAL" />
       <updated>1665648466129</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="created a java class &quot;Chess&quot;">
+      <created>1665648539192</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1665648539192</updated>
+    </task>
+    <task id="LOCAL-00007" summary="implemented the method of GameConsole interface in the Chess class">
+      <created>1665648614113</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1665648614113</updated>
+    </task>
+    <task id="LOCAL-00008" summary="created the Badminton class">
+      <created>1665648667940</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1665648667940</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -105,6 +126,12 @@
     <MESSAGE value="changed the maven compiler source and target jdk versions from 19 to 11 and loaded the maven changes" />
     <MESSAGE value="created an Interface GameConsole.java" />
     <MESSAGE value="created an abstract method computeScore() in the Interface GameConsole.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="created an abstract method computeScore() in the Interface GameConsole.java" />
+    <MESSAGE value="created a java class &quot;Chess&quot;" />
+    <MESSAGE value="implemented the method of GameConsole interface in the Chess class" />
+    <MESSAGE value="created the Badminton class" />
+    <option name="LAST_COMMIT_MESSAGE" value="created the Badminton class" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
 </project>
