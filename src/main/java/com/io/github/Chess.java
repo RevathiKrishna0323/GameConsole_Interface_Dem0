@@ -6,5 +6,9 @@
 
 package com.io.github;
 
-public class Chess {
+public class Chess implements GameConsole {
+    @Override
+    public void computeScore() {
+
+    }
 }
